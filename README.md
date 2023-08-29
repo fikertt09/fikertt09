@@ -1,6 +1,6 @@
  Hi there 👋 
  
-   ✨️ I’m interested in Machine Learning, Web dev, UI/UX, and Graphics Design.
+   ✨️ I’m interested in Machine Learning, Web dev, UI/UX, and Graphics Designing.
    
    🌱 I’m currently learning ML and Web dev
    
