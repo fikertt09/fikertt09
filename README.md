@@ -2,8 +2,6 @@
  
    ✨️ I’m interested in Machine Learning, Data Analysis, Web dev and UI/UX
    
-   🌱 I’m currently learning ML and Web dev
-   
    🤝I’m looking to collaborate on anything that is interesting.
 
 
